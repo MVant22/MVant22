@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I just started a bootcamp, can't wait to explore a new world and most importantly, gain some skills.
+
 <!--
 **MVant22/MVant22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
